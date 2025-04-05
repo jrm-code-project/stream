@@ -8,7 +8,7 @@
                           "FUNCALL"
                           "LET*"
                           "MULTIPLE-VALUE-BIND")
-  (:use "COMMON-LISP" "PROMISE" "SERIES" "UTILITIES")
+  (:use "COMMON-LISP" "FOLD" "PROMISE" "SERIES" "UTILITIES")
   (:export
    "CONS-STREAM"
    "DOUBLE-STREAM"
